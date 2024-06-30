@@ -7,8 +7,9 @@
 
 #### Family Background
 
+
 <p align="center">
-    <img src="https://github.com/MelodiousMeadow/School_Performance_Analysis/raw/main/assets/109684736/40ce080e-6e06-4b3d-aca1-33d72995048b" alt="Urban and Rural Students Distribution">
+  <img src="images/urban_rural.png" width="400" alt="urban rural">
 </p>
 
 
