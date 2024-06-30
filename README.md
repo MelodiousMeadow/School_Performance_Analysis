@@ -7,13 +7,9 @@
 
 #### Family Background
 
-
 <p align="center">
-  <img src="images/urban_rural.png" width="400" alt="urban rural">
+  <img src="images/travel_time.png" width="400" alt="urban rural">
 </p>
-
-
-
 
 #### Parental Education and Occupation
 
