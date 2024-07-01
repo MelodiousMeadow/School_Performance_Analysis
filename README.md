@@ -2,31 +2,28 @@
 
 #### This exploratory data analysis project uses Python to investigate the academic performance of Portuguese students in both Portuguese language and math classes. It explores correlations between grades and socio-demographic factors such as family size, parental education, commute time, study habits, and alcohol consumption habits. Explore detailed visualizations and analysis for each category by clicking [here](https://github.com/MelodiousMeadow/School_Performance_Analysis/blob/main/SchoolPerformanceAnalysis/SchoolPerformanceAnalysis-v2.ipynb).
 
-### TOPICS INVESTIGATED: 
-
-
-#### Family Background
+### Family Background
 
 <p align="center">
   <img src="/SchoolPerformanceAnalysis/images/travel_time.png" width="400" alt="travel time">
 </p>
 
-#### Parental Education and Occupation
+### Parental Education and Occupation
 
 ![image](https://github.com/MelodiousMeadow/School_Performance_Analysis/assets/109684736/c337fee2-4670-45a1-a598-072cb14f3ad5)
 
 ![image](https://github.com/MelodiousMeadow/School_Performance_Analysis/assets/109684736/aaa7ab81-911d-497e-b267-5e280ccd5e4f)
 
-#### Travel Time to School 
+### Travel Time to School 
 
 ![travel_time](https://github.com/MelodiousMeadow/School_Performance_Analysis/assets/109684736/425dce91-4ab0-4152-a8d3-f98fc0ed906f)
 
-#### Support and Activities
+### Support and Activities
 
 ![image](https://github.com/MelodiousMeadow/School_Performance_Analysis/assets/109684736/23f1d9fb-6a31-4ba4-80c8-00db6636d84d)
 
 
-#### Internet Access and Technology
+### Internet Access and Technology
 
 ![image](https://github.com/MelodiousMeadow/School_Performance_Analysis/assets/109684736/e745e802-6926-44b2-86d6-6691c50558e6)
 
