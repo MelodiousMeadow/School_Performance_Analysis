@@ -1,4 +1,4 @@
-# School_Performance_Analysis
+# Student_Performance_Analysis
 
 #### This exploratory data analysis project uses Python to investigate the academic performance of Portuguese students in both Portuguese language and math classes. It explores correlations between grades and socio-demographic factors such as family size, parental education, commute time, study habits, and alcohol consumption habits. Explore detailed visualizations and analysis for each category by clicking [here](https://github.com/MelodiousMeadow/School_Performance_Analysis/blob/main/SchoolPerformanceAnalysis/SchoolPerformanceAnalysis-v2.ipynb).
 
