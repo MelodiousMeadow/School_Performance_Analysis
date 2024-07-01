@@ -5,7 +5,7 @@
 ### Family Background
 
 <p align="center">
-  <img src="/SchoolPerformanceAnalysis/images/travel_time.png" width="400" alt="travel time">
+  <img src="/SchoolPerformanceAnalysis/images/proximity_grades.png" width="400" alt="proximity grades">
 </p>
 
 ### Parental Education and Occupation
