@@ -4,17 +4,23 @@
 
 ### Travel Time to School
 
+As observable below from the chart below, students with shorter travel times (<15 minutes) tend to show slightly higher mean final grades compared to those traveling longer distances.
+
 <p align="center">
   <img src="/SchoolPerformanceAnalysis/images/proximity_grades.png" width="600" alt="proximity grades">
 </p>
 
 ### Parental Education and Occupation
 
+Students whose parents work in healthcare or teaching tend to achieve higher grades (above 12.5 on a 20-point scale). Furthermore, students generally performed better in Portuguese than in math classes. The below visualization indicates that students from lower socioeconomic backgrounds and with less parental support might benefit from additional assistance and homework help at home.
+
 <p align="center">
   <img src="/SchoolPerformanceAnalysis/images/parent_occupation.png" width="500" alt="parent occupation">
 </p>
 
 ### Influence of Alcohol on Grades
+
+As seen in these graphs, moderate weekday drinking appears to have a more harmful effect on grades. The data also suggests that alcohol has a more adverse impact on specific subjects, particularly math. Other factors such as socioeconomic status, study habits, parental involvement, and mental health could also play a role in influencing final grades.
 
 <p align="center">
   <img src="/SchoolPerformanceAnalysis/images/alcohol.png" width="800" height="400" alt="alcohol influence">
@@ -23,12 +29,18 @@
 
 ### Internet Access and Technology
 
-![image](https://github.com/MelodiousMeadow/School_Performance_Analysis/assets/109684736/e745e802-6926-44b2-86d6-6691c50558e6)
+According to the graph, students in Portuguese class who have internet access tend to achieve slightly higher grades compared to those without it. Moreover, grades in term 3 (G3) appear to be predominantly high. Therefore, there is a positive correlation between internet access and academic performance. Students lacking internet access may encounter challenges in accessing materials, especially outside of school.
+
+<p align="center">
+  <img src="/SchoolPerformanceAnalysis/images/internet_access.png" width="600" alt="internet access">
+</p>
+
 
 ### Overall Conclusions
 
-The exploratory analysis conducted reveals compelling insights into the factors influencing student academic performance across various dimensions. Urban residency emerges as predominant, with 80% of students living in urban areas compared  20% in rural settings. Furthermore, students from smaller families demonstrate stronger performance in Math and Portuguese classes, suggesting a potential positive impact of familial environment on academic outcomes. The educational background of parents plays a significant role, particularly when parents are employed in teaching or healthcare, correlating with higher grades above a threshold of 12.5. Shorter commute times, specifically less than 15 minutes, are associated with better academic performance, with mean grades of 13 in Portuguese and 12 in Math, highlighting the importance of proximity to school. Interestingly, while school support and participation in extracurricular activities show no significant correlation with improved grades, weekday drinking negatively affects academic performance. Access to the internet, on the other hand, is positively associated with higher grades compared to students without connectivity. Relationship status shows no notable impact on grades, whereas positive familial relationships correlate with improved school performance. Increased study time positively influences grades, while higher numbers of absences predict lower academic achievement. The analysis also identifies strong positive correlations between grades across terms, indicating consistency in academic performance over time. Parental education levels exhibit a notable influence on student grades, whereas age shows weak correlations with final grades, suggesting age is not a significant predictor. Notably, no prominent negative relationships are found among the variables studied, emphasizing a lack of significant inverse correlations. These findings collectively underscore the complex interplay of familial, environmental, and personal factors shaping student academic success.
+The exploratory analysis reveals key insights into factors impacting student academic performance. Urban residency predominates, with 80% of students in urban areas versus 20% in rural areas. Students from smaller families perform better in Math and Portuguese, suggesting a positive familial influence on academic outcomes. Parental occupation in teaching or healthcare correlates with higher grades (>12.5). Shorter commute times (<15 minutes) are linked to better academic performance (mean grades: Portuguese 13, Math 12). Weekday drinking negatively affects grades, while internet access shows a positive association. Relationship status has no significant impact, but positive family relationships correlate with better academic performance. Increased study time boosts grades, whereas higher absences predict lower achievement. Consistent positive correlations across terms indicate stable academic performance over time. Parental education levels strongly influence grades, while age shows minimal correlation. Notably, no significant negative relationships are found among the variables, highlighting their interrelated complexity in shaping academic success.
 
 ### Next Steps
 
-The findings from this exploratory analysis offer actionable insights for schools aiming to improve student academic outcomes. Schools should tailor resources to support predominantly urban student bodies and consider initiatives that benefit students from smaller families, who show higher achievement in Math and Portuguese. Collaborations with parents in teaching and healthcare professions could enhance educational support. Prioritizing shorter commute times could reduce stress and optimize readiness for learning. Given the minimal impact of school support and extracurricular activities on grades, efforts should focus on addressing issues like weekday drinking through targeted interventions and ensuring equitable internet access. Promoting positive familial relationships, encouraging effective study habits, and implementing attendance strategies are crucial for maintaining consistent academic performance. Leveraging parental education levels as a predictor of success can guide tailored interventions, while recognizing age's minimal role underscores the importance of personalized educational approaches. These strategies collectively aim to create an environment conducive to maximizing student potential and achieving academic excellence.
+This initial analysis offers practical insights for schools to improve student outcomes. Schools should support urban students and implement initiatives benefiting smaller families, which excel in Math and Portuguese. Collaborations with parents in teaching and healthcare can boost educational support. Addressing commute times can reduce stress and optimize learning readiness. Given the limited impact of school support and extracurriculars, interventions should focus on issues like weekday drinking and ensuring equitable internet access. Strengthening familial relationships, promoting effective study habits, and managing attendance are vital for consistent academic performance. Tailoring interventions based on parental education levels and recognizing age's minimal role can further enhance educational strategies. These efforts aim to create an environment that maximizes student potential and achieves academic excellence.
+
