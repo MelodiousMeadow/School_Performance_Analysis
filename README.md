@@ -8,7 +8,7 @@
 #### Family Background
 
 <p align="center">
-  <img src="images/travel_time.png" width="400" alt="urban rural">
+  <img src="/SchoolPerformanceAnalysis/images/travel_time.png" width="400" alt="travel time">
 </p>
 
 #### Parental Education and Occupation
