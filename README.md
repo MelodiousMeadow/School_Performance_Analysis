@@ -2,25 +2,23 @@
 
 #### This exploratory data analysis project uses Python to investigate the academic performance of Portuguese students in both Portuguese language and math classes. It explores correlations between grades and socio-demographic factors such as family size, parental education, commute time, study habits, and alcohol consumption habits. Explore detailed visualizations and analysis for each category by clicking [here](https://github.com/MelodiousMeadow/School_Performance_Analysis/blob/main/SchoolPerformanceAnalysis/SchoolPerformanceAnalysis-v2.ipynb).
 
-### Family Background
+### Travel Time to School
 
 <p align="center">
-  <img src="/SchoolPerformanceAnalysis/images/proximity_grades.png" width="400" alt="proximity grades">
+  <img src="/SchoolPerformanceAnalysis/images/proximity_grades.png" width="600" alt="proximity grades">
 </p>
 
 ### Parental Education and Occupation
 
-![image](https://github.com/MelodiousMeadow/School_Performance_Analysis/assets/109684736/c337fee2-4670-45a1-a598-072cb14f3ad5)
+<p align="center">
+  <img src="/SchoolPerformanceAnalysis/images/parent_occupation.png" width="500" alt="parent occupation">
+</p>
 
-![image](https://github.com/MelodiousMeadow/School_Performance_Analysis/assets/109684736/aaa7ab81-911d-497e-b267-5e280ccd5e4f)
+### Influence of Alcohol on Grades
 
-### Travel Time to School 
-
-![travel_time](https://github.com/MelodiousMeadow/School_Performance_Analysis/assets/109684736/425dce91-4ab0-4152-a8d3-f98fc0ed906f)
-
-### Support and Activities
-
-![image](https://github.com/MelodiousMeadow/School_Performance_Analysis/assets/109684736/23f1d9fb-6a31-4ba4-80c8-00db6636d84d)
+<p align="center">
+  <img src="/SchoolPerformanceAnalysis/images/alcohol.png" width="800" height="400" alt="alcohol influence">
+</p>
 
 
 ### Internet Access and Technology
