@@ -35,7 +35,7 @@ Mooderate weekday drinking appears to have a more harmful effect on grades. The 
 Students in Portuguese class who have internet access tend to achieve slightly higher grades compared to those without it. Moreover, grades in term 3 (G3) appear to be predominantly high. Therefore, there is a positive correlation between internet access and academic performance. Students lacking internet access may encounter challenges in accessing materials, especially outside of school.
 
 <p align="center">
-  <img src="/SchoolPerformanceAnalysis/images/internet_access.png" width="600" alt="internet access">
+  <img src="/SchoolPerformanceAnalysis/images/internet_acces1.png" width="600" alt="internet access">
 </p>
 
 
