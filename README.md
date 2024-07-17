@@ -1,10 +1,10 @@
 # Student_Performance_Analysis
 
-#### This exploratory data analysis project uses Python to investigate the academic performance of Portuguese students in both Portuguese language and math classes. It explores correlations between grades and socio-demographic factors such as family size, parental education, commute time, study habits, and alcohol consumption habits. Explore detailed visualizations and analysis for each category by clicking [here](https://github.com/MelodiousMeadow/School_Performance_Analysis/blob/main/SchoolPerformanceAnalysis/SchoolPerformanceAnalysis-v2.ipynb).
+#### This exploratory data analysis project uses Python to investigate the academic performance of Portuguese students in both Portuguese language and math classes. It explores correlations between grades (scale from 0 - 20) and socio-demographic factors such as family size, parental education, commute time, study habits, and alcohol consumption habits. Explore detailed visualizations and analysis for each category by clicking [here](https://github.com/MelodiousMeadow/School_Performance_Analysis/blob/main/SchoolPerformanceAnalysis/SchoolPerformanceAnalysis-v2.ipynb).
 
 ### Travel Time to School
 
-As observable below from the chart below, students with shorter travel times (<15 minutes) tend to show slightly higher mean final grades compared to those traveling longer distances.
+Students with shorter travel times (<15 minutes) tend to show slightly higher mean final grades compared to those traveling longer distances.
 
 <p align="center">
   <img src="/SchoolPerformanceAnalysis/images/proximity_grades.png" width="600" alt="proximity grades">
@@ -12,7 +12,10 @@ As observable below from the chart below, students with shorter travel times (<1
 
 ### Parental Education and Occupation
 
-Students whose parents work in healthcare or teaching tend to achieve higher grades (above 12.5 on a 20-point scale). Furthermore, students generally performed better in Portuguese than in math classes. The below visualization indicates that students from lower socioeconomic backgrounds and with less parental support might benefit from additional assistance and homework help at home.
+- Students whose parents work in healthcare or teaching tend to achieve higher grades (above 12.5 on a 20-point scale).
+- Students generally performed better in Portuguese than in math classes.
+
+The below visualization indicates that students from lower socioeconomic backgrounds and with less parental support might benefit from additional assistance and homework help at home.
 
 <p align="center">
   <img src="/SchoolPerformanceAnalysis/images/parent_occupation.png" width="500" alt="parent occupation">
@@ -20,7 +23,7 @@ Students whose parents work in healthcare or teaching tend to achieve higher gra
 
 ### Influence of Alcohol on Grades
 
-As seen in these graphs, moderate weekday drinking appears to have a more harmful effect on grades. The data also suggests that alcohol has a more adverse impact on specific subjects, particularly math. Other factors such as socioeconomic status, study habits, parental involvement, and mental health could also play a role in influencing final grades.
+Mooderate weekday drinking appears to have a more harmful effect on grades. The data also suggests that alcohol has a more adverse impact on specific subjects, particularly math. Other factors such as socioeconomic status, study habits, parental involvement, and mental health could also play a role in influencing final grades.
 
 <p align="center">
   <img src="/SchoolPerformanceAnalysis/images/alcohol.png" width="800" height="400" alt="alcohol influence">
@@ -29,16 +32,36 @@ As seen in these graphs, moderate weekday drinking appears to have a more harmfu
 
 ### Internet Access and Technology
 
-According to the graph, students in Portuguese class who have internet access tend to achieve slightly higher grades compared to those without it. Moreover, grades in term 3 (G3) appear to be predominantly high. Therefore, there is a positive correlation between internet access and academic performance. Students lacking internet access may encounter challenges in accessing materials, especially outside of school.
+Students in Portuguese class who have internet access tend to achieve slightly higher grades compared to those without it. Moreover, grades in term 3 (G3) appear to be predominantly high. Therefore, there is a positive correlation between internet access and academic performance. Students lacking internet access may encounter challenges in accessing materials, especially outside of school.
 
 <p align="center">
   <img src="/SchoolPerformanceAnalysis/images/internet_access.png" width="600" alt="internet access">
 </p>
 
 
-### Overall Conclusions
+### Findings
 
-The exploratory analysis reveals key insights into factors impacting student academic performance. Urban residency predominates, with 80% of students in urban areas versus 20% in rural areas. Students from smaller families perform better in Math and Portuguese, suggesting a positive familial influence on academic outcomes. Parental occupation in teaching or healthcare correlates with higher grades (>12.5). Shorter commute times (<15 minutes) are linked to better academic performance (mean grades: Portuguese 13, Math 12). Weekday drinking negatively affects grades, while internet access shows a positive association. Relationship status has no significant impact, but positive family relationships correlate with better academic performance. Increased study time boosts grades, whereas higher absences predict lower achievement. Consistent positive correlations across terms indicate stable academic performance over time. Parental education levels strongly influence grades, while age shows minimal correlation. Notably, no significant negative relationships are found among the variables, highlighting their interrelated complexity in shaping academic success.
+The exploratory analysis into factors influencing student academic performance reveals several key findings:
+
+- **Residency and Family Dynamics:** 80% of students reside in urban areas, and smaller family sizes correlate with better performance in Math and Portuguese, suggesting a positive familial influence.
+
+- **Parental Influence:** Occupations in teaching or healthcare are associated with higher grades (>12.5) out of 20 point scale, indicating a significant impact of parental profession on academic success.
+
+- **Commute Times:** Shorter commutes (<15 minutes) are linked to better grades (Portuguese: 13, Math: 12), highlighting the role of reduced travel stress in academic performance.
+
+- **Lifestyle Factors:** Weekday drinking negatively affects grades, while internet access shows a positive association, possibly due to enhanced learning resources.
+
+- **Social and Family Dynamics:** Relationship status has no significant impact, but positive family relationships correlate with better academic outcomes.
+
+- **Study Habits and Attendance:** Increased study time boosts grades, while higher absences predict lower achievement, emphasizing the importance of consistent attendance.
+
+- **Longitudinal Stability:** Academic performance shows stable patterns over terms, influenced by parental education levels more than student age.
+
+The analysis underscores the complex interplay of residency, family background, parental occupation, commute times, lifestyle choices, and social dynamics in shaping student academic success. These insights emphasize the need for comprehensive support systems to optimize student outcomes.
+
+
+
+
 
 ### Next Steps
 
